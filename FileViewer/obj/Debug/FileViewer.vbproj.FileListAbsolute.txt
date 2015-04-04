@@ -1,0 +1,12 @@
+H:\Dev\FileViewer\FileViewer\FileViewer\bin\Debug\FileViewer.exe.config
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\FileViewer.xml
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\FileViewer.pdb
+H:\Dev\FileViewer\FileViewer\FileViewer\bin\Debug\FileViewer.exe
+H:\Dev\FileViewer\FileViewer\FileViewer\bin\Debug\FileViewer.pdb
+H:\Dev\FileViewer\FileViewer\FileViewer\bin\Debug\FileViewer.xml
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\ResolveAssemblyReference.cache
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\FileViewer.frmViewer.resources
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\FileViewer.Resources.resources
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\ResGen.read.1.tlog
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\ResGen.write.1.tlog
+H:\Dev\FileViewer\FileViewer\FileViewer\obj\Debug\FileViewer.exe
