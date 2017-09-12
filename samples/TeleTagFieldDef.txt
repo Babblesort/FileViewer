@@ -1,0 +1,4 @@
+Description	1	20
+Amount	21	30
+Foo	31	40
+Bar	41	46
